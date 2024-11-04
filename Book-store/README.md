@@ -21,6 +21,6 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 # Project Screenshots
 
-![book-store-1](https://github.com/user-attachments/assets/17233b25-55a9-4940-9f7b-6db8e0a2cdf4)
-![book-store-2](https://github.com/user-attachments/assets/d8dda0f9-17c6-4d9d-b60d-762b6a473e03)
-![boo](https://github.com/user-attachments/assets/e312fb03-e375-48a2-8ea8-b876d07a1a55)
+![bookstore-1](https://github.com/user-attachments/assets/ae213221-f094-4c60-b4e4-c018d98b5166)
+![bookstore2](https://github.com/user-attachments/assets/29ae2439-ae11-4283-a18d-3d0c33629d0f)
+![bookstore3](https://github.com/user-attachments/assets/fd98f962-8968-493d-9166-94fe250f6283)
